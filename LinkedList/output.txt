@@ -1,6 +1,0 @@
-moon 1
-the 3
-over 1
-jumped 1
-cow 1
- 
