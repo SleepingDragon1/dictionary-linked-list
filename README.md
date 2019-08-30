@@ -1,0 +1,80 @@
+# dictionary-linked-list
+Using a linked list data structure, this application takes in a 
+text file from Unix command line and prints the frequency each
+word.
+
+
+
+Example output:
+
+dlt 3
+in 2
+work 1
+stimson's 1
+about 1
+more 1
+learn 1
+to 2
+below 1
+image 1
+the 6
+on 2
+click 1
+items. 1
+chemical 1
+dual-use 1
+controlling 1
+and 5
+controls, 1
+export 1
+management, 1
+information 1
+safeguards 1
+security, 1
+nuclear 2
+areas: 1
+focus 1
+four 1
+following 1
+focusing 1
+is 4
+stimson 2
+specifically, 1
+facilities. 1
+technologies, 1
+material, 1
+of 2
+security 2
+weakens 1
+or 1
+enhances 1
+technology 2
+how 1
+considering 1
+research 1
+exploratory 1
+level. 1
+(industry) 1
+operational 1
+national, 1
+international, 1
+at 1
+international 1
+non-proliferation 1
+for 1
+implications 1
+applications 1
+identifying 1
+economy. 1
+world 1
+alter 1
+potential 1
+its 1
+revolutionary 1
+as 2
+characterized 1
+being 1
+blockchain, 1
+such 1
+ledger 1
+distributed 1
